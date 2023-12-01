@@ -10,6 +10,8 @@ Through this project, I learned about the intricacies of building a CMS-style bl
 
 ## Heroku URL
 
+[Tech Blog on Heroku](https://tech-blog-wt-7e409f5b1ee6.herokuapp.com/)
+
 ## Installation
 
 Installed the modules with npm i. Must also make sure that mysql2, sequelize, express-session, express-handlebars, dotenv, connect-session-sequelize, and bcrypt modules are installed. 
